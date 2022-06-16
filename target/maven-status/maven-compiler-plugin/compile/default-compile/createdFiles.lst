@@ -1,2 +1,7 @@
-KafkaProducerApplication.class
-KafkaProducerConfiguration.class
+producer\ProducerConfiguration.class
+producer\recourse\ProducerRecourse.class
+producer\ProducerApplication.class
+producer\CustomerSerializer.class
+producer\model\Customer.class
+producer\model\ProducerMessageModel.class
+producer\service\KafkaProducerService.class

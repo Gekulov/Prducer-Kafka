@@ -1,0 +1,14 @@
+topics:
+  - quickstart-events
+server:
+  applicationConnectors:
+    - type: http
+      port: 9000
+  adminConnectors:
+    - type: http
+      port: 9001
+
+producer:
+  servers: localhost:9092
+  key: org.apache.kafka.common.serialization.StringSerializer
+  value: producer.CustomerSerializer

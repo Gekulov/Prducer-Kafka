@@ -1,2 +1,7 @@
-C:\Users\gkulo\IdeaProjects\dropwizard\KafkaProducer\src\main\java\KafkaProducerApplication.java
-C:\Users\gkulo\IdeaProjects\dropwizard\KafkaProducer\src\main\java\KafkaProducerConfiguration.java
+C:\Users\gkulo\IdeaProjects\dropwizard\ProducerDemo\src\main\java\producer\CustomerSerializer.java
+C:\Users\gkulo\IdeaProjects\dropwizard\ProducerDemo\src\main\java\producer\ProducerConfiguration.java
+C:\Users\gkulo\IdeaProjects\dropwizard\ProducerDemo\src\main\java\producer\recourse\ProducerRecourse.java
+C:\Users\gkulo\IdeaProjects\dropwizard\ProducerDemo\src\main\java\producer\model\ProducerMessageModel.java
+C:\Users\gkulo\IdeaProjects\dropwizard\ProducerDemo\src\main\java\producer\service\KafkaProducerService.java
+C:\Users\gkulo\IdeaProjects\dropwizard\ProducerDemo\src\main\java\producer\model\Customer.java
+C:\Users\gkulo\IdeaProjects\dropwizard\ProducerDemo\src\main\java\producer\ProducerApplication.java
